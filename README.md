@@ -1,2 +1,2 @@
 # AI-Development
-AI learning
+Just using this to show my AI learning.
